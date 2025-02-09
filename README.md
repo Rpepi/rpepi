@@ -22,8 +22,9 @@ I dive deep into **coding** while balancing it with my love for **Muay Thai**. �
 
 ### 🏅 **Cloud Certifications**
 
- [![AWS Certified CCP](CCP-badge.png)](https://www.credly.com/badges/12345678) | [![AWS Certified SAA](SAA-badge.png)](https://www.credly.com/users/romain-pepi) |
-
+<div align="center"> 
+[![AWS Certified CCP](CCP-badge.png)](https://www.credly.com/badges/12345678) | [![AWS Certified SAA](SAA-badge.png)](https://www.credly.com/users/romain-pepi) |
+</div>
 ---
 
 ### 🔥 **Want to learn:**
