@@ -19,5 +19,10 @@ I'm a student at **19 School** (42 network), Belgium.
 
 ### 🔥 **Want to learn:**
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,kubernetes,terraform,azure,gcp,githubactions&perline=5" />
+  </a>
+</p>
 
 ---
