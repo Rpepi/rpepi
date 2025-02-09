@@ -11,7 +11,7 @@ I'm a student at **19 School** (42 network), Belgium.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,bash,aws,c,cpp,css,html,js,linux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,aws,c,cpp,css,html,js&perline=5" />
   </a>
 </p>
 
