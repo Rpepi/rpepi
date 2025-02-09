@@ -1,5 +1,8 @@
-My name is Romain Pepi. 
-I'm a student at **19 School** (42 network), Belgium.  
+## Hey there! 👋  
+
+I'm **Romain**, a **21-year-old Belgian student** at **19 (42 Network)**.   
+Passionate about **technology** and always eager to push my limits,   
+I dive deep into **coding** while balancing it with my love for **Muay Thai**. 🥊💻  
 
 ---
 
