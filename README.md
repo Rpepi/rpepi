@@ -1,8 +1,3 @@
-
-![École 19 Logo](images.png)
-
----
-
 ### My name is Romain Pepi. 
 I'm a student at **19 School** (42 network), Belgium.  
 
