@@ -21,11 +21,8 @@ I dive deep into **coding** while balancing it with my love for **Muay Thai**. ğ
 ---
 
 ###ğŸ… **Cloud Certifications**
-<a href="https://www.credly.com/badges/12345678">
-  <img src="https://www.credly.com/badges/bc2a18cd-446d-4c9b-af97-d46885f4ffdc/public_url">
-</a>
-<a href="https://www.credly.com/badges/23456789">
-  <img src="https://www.credly.com/badges/ac113ab8-75df-40c8-8893-26d0e56367a0/public_url">
+<a href="https://www.credly.com/users/romain-pepi" target="_blank">
+  <img src="https://www.credly.com/badges/ac113ab8-75df-40c8-8893-26d0e56367a0/public_url" width="120" alt="AWS Certified">
 </a>
 
 ---
