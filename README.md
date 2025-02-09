@@ -4,23 +4,12 @@
 
 ---
 
-### My name is Marius Van Pee. 
+### My name is Romain Pepi. 
 I'm a student at **19 School** (42 network), Belgium.  
-You can check my portfolio **[here](https://www.mvpee.be)**.
 
 ---
 
-### 📜 **mvan-pee's Profile**
-
-![42 Profile](https://badge.mediaplus.ma/greenbinary/mvan-pee)
-
-**Name:** Marius Van Pee  
-**Email:** [mvan-pee@student.s19.be](mailto:mvan-pee@student.s19.be)  
-**Cursus:** 42cursus  
-**Grade:** Member  
-**Level:** 11 - 19%  
-
-![42 Network](https://img.shields.io/badge/STUDENT-42%20NETWORK-blue?style=flat-square)
+[![rpepi's 42 stats](https://badge.mediaplus.ma/binary/rpepi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
 
@@ -32,15 +21,6 @@ You can check my portfolio **[here](https://www.mvpee.be)**.
 ✔️ [netpractice / cpp_00-04 / cub3d](https://github.com/mvan-pee/cub3d)  
 ✔️ [inception / cpp_05-09 / webserv](https://github.com/mvan-pee/webserv)  
 ✔️ [ft_transcendence](https://github.com/mvan-pee/ft_transcendence)  
-
----
-
-### 📊 **GitHub Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mvan-pee&theme=dark&hide_border=true)
-
-- **1,790** Total Contributions
-- **1** Current Streak
-- **142** Longest Streak
 
 ---
 
@@ -61,12 +41,6 @@ You can check my portfolio **[here](https://www.mvpee.be)**.
 ---
 
 ### 🔥 **Want to learn:**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
 
 ---
-
-⌛ **17:14 - Same time, same passion!** 😎
