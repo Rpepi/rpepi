@@ -11,7 +11,7 @@ I'm a student at **19 School** (42 network), Belgium.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src=[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) />
+    <img src=[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]/>
   </a>
 </p>
 
