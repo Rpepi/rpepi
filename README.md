@@ -18,7 +18,7 @@ I dive deep into **coding** while balancing it with my love for **Muay Thai**. ð
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,aws,c,cpp,css,html,js&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,aws,terraform,c,cpp,css,html,js&perline=5" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ I dive deep into **coding** while balancing it with my love for **Muay Thai**. ð
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kubernetes,terraform,azure,gcp,githubactions" />
+    <img src="https://skillicons.dev/icons?i=py,kubernetes,azure,gcp,githubactions" />
   </a>
 </p>
 
