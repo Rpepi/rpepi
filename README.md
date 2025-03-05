@@ -1,7 +1,6 @@
 ## Hey there! 👋  
 
-I'm **Romain**, a **21-year-old Belgian student** at **19 (42 Network)**.   
-Passionate about **technology** and always eager to push my limits,   
+I'm **Romain**, a **21-year-old Belgian student** at **19 (42 Network)**.      
 I dive deep into **coding** while balancing it with my love for **Muay Thai**. 🥊💻  
 
 ---
