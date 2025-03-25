@@ -15,17 +15,10 @@ I dive deep into **coding** while balancing it with my love for **Muay Thai**. ð
 
 <div align="center"> 
 
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4331507" style='border:none;'></iframe>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/rpepi03.png" alt="Your Image Badge" />
 
 </div>
-
 ---
-
-<div align="center"> 
-
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
-
-</div>
 
 ### ðŸš€ **Technologies & Tools**
 
