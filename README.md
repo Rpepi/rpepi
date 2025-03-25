@@ -15,7 +15,7 @@ I dive deep into **coding** while balancing it with my love for **Muay Thai**. ð
 
 <div align="center"> 
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4331507)](https://tryhackme.com/p/4331507)
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 
 </div>
 
