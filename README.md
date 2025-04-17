@@ -7,7 +7,7 @@
 
 <div align="center"> 
 
-  [![rpepi's 42 stats](https://badge.mediaplus.ma/green-binary/rpepi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+  [![rpepi's 42 stats](https://badge.mediaplus.ma/greenbinary/rpepi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 </div>
 
