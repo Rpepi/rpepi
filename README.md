@@ -1,23 +1,6 @@
 ## Hey there! 👋  
 
 ***"I’m Romain, a 21-year-old student at 19 (part of the 42 Network). I’m into tech and set on making cybersecurity my thing—looking to build skills and tackle real challenges."***     
-  
-
----
-
-<div align="center"> 
-
-  [![rpepi's 42 stats](https://badge.mediaplus.ma/greenbinary/rpepi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-</div>
-
----
-
-<div align="center"> 
-
- <img src="https://tryhackme-badges.s3.amazonaws.com/rpepi03.png" alt="Your Image Badge" />
-
-</div>
 
 ---
 
