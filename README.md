@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kubernetes,azure,gcp,githubactions" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,azure,gcp,githubactions" />
   </a>
 </p>
 
