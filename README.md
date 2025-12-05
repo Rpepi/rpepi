@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node,react,azure,gcp,githubactions" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,azure,gcp,githubactions" />
   </a>
 </p>
 
