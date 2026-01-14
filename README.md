@@ -1,6 +1,6 @@
 ## Hey there! 👋  
 
-***"I’m Romain, a 22-year-old student at 19 (part of the 42 Network)."***     
+***"I’m Romain, a 22-year-old student at 42 Belgium."***     
 
 ---
 
