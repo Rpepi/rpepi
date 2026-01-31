@@ -17,10 +17,17 @@
 ### 🏅 **Cloud Certifications**
 
 <div align="center"> 
-  
-  [![AWS Certified CCP](CCP-badge.png)](https://www.credly.com/badges/12345678) | [![AWS Certified AIP](AIP.png)](https://www.credly.com/users/romain-pepi) | [![AWS Certified SAA](SAA-badge.png)](https://www.credly.com/users/romain-pepi) |
-  
+  <a href="https://www.credly.com/badges/12345678">
+    <img src="CCP-badge.png" alt="AWS Certified CCP" width="100">
+  </a>
+  <a href="https://www.credly.com/users/romain-pepi">
+    <img src="AIP.png" alt="AWS Certified AIP" width="100">
+  </a>
+  <a href="https://www.credly.com/users/romain-pepi">
+    <img src="SAA-badge.png" alt="AWS Certified SAA" width="100">
+  </a>
 </div>
+
 
 ---
 
