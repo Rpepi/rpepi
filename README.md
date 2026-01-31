@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,kali,bash,powershell,aws,terraform,c,cpp,css,html,py,js,postgres&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,kali,bash,aws,terraform,c,css,html,py,js,postgres&perline=5" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <div align="center"> 
   
-  [![AWS Certified CCP](CCP-badge.png)](https://www.credly.com/badges/12345678) | [![AWS Certified SAA](SAA-badge.png)](https://www.credly.com/users/romain-pepi) |
+  [![AWS Certified CCP](CCP-badge.png)](https://www.credly.com/badges/12345678) |  [![AWS Certified AIP](SAA-badge.png)](https://www.credly.com/users/romain-pepi) | |[![AWS Certified SAA](SAA-badge.png)](https://www.credly.com/users/romain-pepi) |
   
 </div>
 
