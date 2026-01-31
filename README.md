@@ -18,7 +18,7 @@
 
 <div align="center"> 
   
-  [![AWS Certified CCP](CCP-badge.png)](https://www.credly.com/badges/12345678) |  [![AWS Certified AIP](SAA-badge.png)](https://www.credly.com/users/romain-pepi) | |[![AWS Certified SAA](SAA-badge.png)](https://www.credly.com/users/romain-pepi) |
+  [![AWS Certified CCP](CCP-badge.png)](https://www.credly.com/badges/12345678) |  [![AWS Certified AIP](AIP.png)](https://www.credly.com/users/romain-pepi) | |[![AWS Certified SAA](SAA-badge.png)](https://www.credly.com/users/romain-pepi) |
   
 </div>
 
