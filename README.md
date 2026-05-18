@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,kali,bash,aws,terraform,c,css,html,py,scaleway&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,kali,bash,aws,terraform,c,c++,arduino,py,fastapi,gitlab,arduino,vim,postgresql&perline=5" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ansible,azure,kubernetes,githubactions" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ansible,azure,kubernetes,githubactions,go,java" />
   </a>
 </p>
 
