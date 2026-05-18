@@ -27,7 +27,7 @@
     <img src="SAA-badge.png" alt="AWS Certified SAA" width="100">
   </a>
    <a href="https://www.credly.com/users/romain-pepi">
-    <img src="DEV-badge.png" alt="AWS Certified Developper Associate" width="100">
+    <img src="developper-badge.png" alt="AWS Certified Developper Associate" width="100">
   </a>
 </div>
 
