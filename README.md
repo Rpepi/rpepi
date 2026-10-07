@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,kubernetes,go" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,go" />
   </a>
 </p>
 
