@@ -1,6 +1,6 @@
 ## Hey there! 👋  
 
-***"I’m Romain, a 22-year-old student at 42 Belgium."***     
+***"I’m Romain, a 23-year-old student at 42 Bangkok."***     
 
 ---
 
